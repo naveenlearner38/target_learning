@@ -1,0 +1,2 @@
+- [ ] [Ethical Hacking / Penetration Testing and Bug Bounty Hunting Course : Rohit Gautam - Hacktify ](https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks)
+- [ ] [Practical Ethical Hacking : Heath Adams - TCM Security ](https://www.udemy.com/course/practical-ethical-hacking)

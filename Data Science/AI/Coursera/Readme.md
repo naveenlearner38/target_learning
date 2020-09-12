@@ -1,0 +1,1 @@
+- [X] [AI For Everyone : Andrew Ng - Deeplearning.ai ](https://www.coursera.org/learn/ai-for-everyone/)
