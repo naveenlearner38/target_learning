@@ -8,4 +8,8 @@
 
     - [X] [Tutorial 2 - Python List and Boolean Variables](https://www.youtube.com/watch?v=GA0u6WM7_Eo) 
 
+    - [X] [Tutorial 3- Python Sets, Dictionaries and Tuples](https://www.youtube.com/watch?v=wlS_fWxIPyQ)
+
+    - [X] [Tutorial 4 - Numpy and Inbuilt Functions Tutorial](https://www.youtube.com/watch?v=vh525RjO6C0)
+
     
