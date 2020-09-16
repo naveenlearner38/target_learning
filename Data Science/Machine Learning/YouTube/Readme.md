@@ -12,4 +12,8 @@
 
     - [X] [Tutorial 4 - Numpy and Inbuilt Functions Tutorial](https://www.youtube.com/watch?v=vh525RjO6C0)
 
+    - [X] [Tutorial 5- Pandas, Data Frame and Data Series Part-1](https://www.youtube.com/watch?v=QUClKFFn1Vk)
+
+    - [X] [Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2](https://www.youtube.com/watch?v=tW1BWtQRZ2M)
+
     
